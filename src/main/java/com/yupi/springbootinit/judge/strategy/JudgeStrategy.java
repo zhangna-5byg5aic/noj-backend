@@ -1,6 +1,6 @@
 package com.yupi.springbootinit.judge.strategy;
 
-import com.yupi.springbootinit.model.dto.questionsubmit.JudgeInfo;
+import com.yupi.springbootinit.judge.codesandbox.model.JudgeInfo;
 
 /**
  * 判题策略

@@ -10,7 +10,7 @@ import com.yupi.springbootinit.judge.codesandbox.model.ExecuteCodeRequest;
 import com.yupi.springbootinit.judge.codesandbox.model.ExecuteCodeResponse;
 import com.yupi.springbootinit.judge.strategy.JudgeContext;
 import com.yupi.springbootinit.model.dto.question.JudgeCase;
-import com.yupi.springbootinit.model.dto.questionsubmit.JudgeInfo;
+import com.yupi.springbootinit.judge.codesandbox.model.JudgeInfo;
 import com.yupi.springbootinit.model.entity.Question;
 import com.yupi.springbootinit.model.entity.QuestionSubmit;
 import com.yupi.springbootinit.model.enums.QuestionSubmitStatusEnum;

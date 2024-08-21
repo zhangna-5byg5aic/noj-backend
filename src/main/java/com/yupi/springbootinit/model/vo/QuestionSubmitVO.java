@@ -1,9 +1,7 @@
 package com.yupi.springbootinit.model.vo;
 
 import cn.hutool.json.JSONUtil;
-import com.baomidou.mybatisplus.annotation.IdType;
-import com.baomidou.mybatisplus.annotation.TableId;
-import com.yupi.springbootinit.model.dto.questionsubmit.JudgeInfo;
+import com.yupi.springbootinit.judge.codesandbox.model.JudgeInfo;
 import com.yupi.springbootinit.model.entity.QuestionSubmit;
 import lombok.Data;
 import org.springframework.beans.BeanUtils;

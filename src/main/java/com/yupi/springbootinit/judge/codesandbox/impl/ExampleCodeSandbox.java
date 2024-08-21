@@ -3,7 +3,7 @@ package com.yupi.springbootinit.judge.codesandbox.impl;
 import com.yupi.springbootinit.judge.codesandbox.CodeSandbox;
 import com.yupi.springbootinit.judge.codesandbox.model.ExecuteCodeRequest;
 import com.yupi.springbootinit.judge.codesandbox.model.ExecuteCodeResponse;
-import com.yupi.springbootinit.model.dto.questionsubmit.JudgeInfo;
+import com.yupi.springbootinit.judge.codesandbox.model.JudgeInfo;
 import com.yupi.springbootinit.model.enums.JudgeInfoMessageEnum;
 import com.yupi.springbootinit.model.enums.QuestionSubmitStatusEnum;
 import lombok.extern.slf4j.Slf4j;

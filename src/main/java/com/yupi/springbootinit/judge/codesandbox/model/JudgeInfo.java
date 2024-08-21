@@ -1,4 +1,4 @@
-package com.yupi.springbootinit.model.dto.questionsubmit;
+package com.yupi.springbootinit.judge.codesandbox.model;
 
 import lombok.Data;
 
