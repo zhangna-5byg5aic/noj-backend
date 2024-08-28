@@ -29,15 +29,24 @@
 - Spring Cloud Alibaba 2021.0.5.0
 ## 系统架构
 - 业务流程图
+![image.png](img%2Fimage.png)
 - 时序图
+![image2.png](img%2Fimage2.png)
 - 架构图
+![image 3.png](img%2Fimage%203.png)
 ## 使用说明
 - 登录
+![login.png](img%2Flogin.png)
 - 浏览题目
-- 做题
+![viewquestion.png](img%2Fviewquestion.png)
+- 做题页面
+![doquestion.png](img%2Fdoquestion.png)
 - 查看提交
+![viewsubmit.png](img%2Fviewsubmit.png)
 - 创建题目
+![createquestion.png](img%2Fcreatequestion.png)
 - 管理题目
+![mangequestion.png](img%2Fmangequestion.png)
 ## 技术细节
 ### 代码沙箱
 采用了**模板方法模式**。模板方法定义了沙箱的基本流程： 
